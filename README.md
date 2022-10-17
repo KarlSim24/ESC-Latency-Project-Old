@@ -2,5 +2,5 @@
 
 10-17
 - motor RPM can be controlled by esc_latency.py, but unpredictably
-- Q: why does esc cut motor when changing speeds?
-- Q: 
+- TODO: why does esc cut motor when changing speeds?
+- TODO: get latency using sensor values in esc_latency.py
